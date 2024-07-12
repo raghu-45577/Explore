@@ -14,4 +14,5 @@
 - **Feign Clients** are used to have a conversation between the services.
 - User can able to provide feedback to the company.
 - Deployed to the docker repository.
-- Feel free to pull the images, copy the docker-compose.yaml file which is inside the company service and test the application.
+- Feel free to pull the images, copy the docker-compose.yaml file which is inside the company service and test the application by running the command **docker compose up**.
+- The docker-compose.yaml which is outside the project is just the test file. The original file is inside the company microservice.
